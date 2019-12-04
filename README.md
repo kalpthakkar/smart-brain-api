@@ -1,2 +1,2 @@
-Committed on 2019-12-02T12:21:30 
+Committed on 2019-12-04T12:32:00 
 Committer - https://github.com/kalpthakkar/smart-brain-api
